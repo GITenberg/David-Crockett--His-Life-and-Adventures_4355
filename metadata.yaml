@@ -1,0 +1,33 @@
+_repo: David-Crockett--His-Life-and-Adventures_4355
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Abbott, John S. C. (John Stevens Cabot)
+    aliases:
+    - John S. C. (John Stevens Cabot) Abbott
+    - Abbott, John Stevens Cabot
+    birthdate: 1805
+    deathdate: 1877
+    gutenberg_agent_id: '1298'
+    url: http://www.gutenberg.org/2009/agents/1298
+    wikipedia: http://en.wikipedia.org/wiki/John_Stevens_Cabot_Abbott
+description: Tennessee soldier and politician David Crockett played a significant
+  role in his home state's history, but it is his legendary skill as a frontiersman
+  and hunter that earned him an outsized reputation, eventually landing him a spot
+  in the pantheon of American folk heroes. This engaging volume combines a factual
+  account of Crockett's life along with some of the tall tales and over-the-top adventures
+  with which he is credited.
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4355'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Crockett, Davy, 1786-1836'
+- !lcc 'F396'
+- GITenberg
+title: 'David Crockett: His Life and Adventures'
+url: http://www.gutenberg.org/ebooks/4355
