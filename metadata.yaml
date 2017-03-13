@@ -1,5 +1,8 @@
 _repo: David-Crockett--His-Life-and-Adventures_4355
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Abbott, John S. C. (John Stevens Cabot)
@@ -17,6 +20,8 @@ description: Tennessee soldier and politician David Crockett played a significan
   in the pantheon of American folk heroes. This engaging volume combines a factual
   account of Crockett's life along with some of the tall tales and over-the-top adventures
   with which he is credited.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4355#David-Crockett--His-Life-and-Adventures
 gutenberg_issued: '2003-08-01'
 gutenberg_type: Text
 identifiers:
